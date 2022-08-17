@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(75deg, rgb(51, 112, 153), rgb(0, 128, 107));
+}
+
+#myPic{
+    width: 200px;
+    border-radius: 70px 0 70px 0;
+}
+
+#about,
+#exp,
+#skills,
+#projects,
+#contact,
+#quote{
+    box-shadow: #96e5e2 0 0 7px;
+}
